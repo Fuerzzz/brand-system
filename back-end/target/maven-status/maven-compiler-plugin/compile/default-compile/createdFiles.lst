@@ -1,0 +1,16 @@
+com\chinahitech\shop\service\BrandService.class
+com\chinahitech\shop\controller\CategoryController.class
+com\chinahitech\shop\ShopApplication.class
+com\chinahitech\shop\controller\BrandController.class
+com\chinahitech\shop\mapper\BrandMapper.class
+com\chinahitech\shop\mapper\CategoryMapper.class
+com\chinahitech\shop\config\MyBatisPlusConfig.class
+com\chinahitech\shop\controller\UserController.class
+com\chinahitech\shop\utils\JwtUtils.class
+com\chinahitech\shop\service\CategoryService.class
+com\chinahitech\shop\bean\Category.class
+com\chinahitech\shop\bean\Brand.class
+com\chinahitech\shop\bean\User.class
+com\chinahitech\shop\config\MyWebAppConfigurer.class
+com\chinahitech\shop\utils\ResultCode.class
+com\chinahitech\shop\utils\Result.class
